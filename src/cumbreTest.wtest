@@ -101,4 +101,5 @@ test "conflictos" {
 	
 	assert.that(coreaDelSur.esConflictivoParaLaCumbre())
 	assert.equals([lucia], cumbre.participantesExtranjeros().asList())
+	//asd
 }
